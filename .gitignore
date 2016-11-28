@@ -6,3 +6,4 @@
 /.project
 /.pydevproject
 /.coverage
+/coverage_report/
